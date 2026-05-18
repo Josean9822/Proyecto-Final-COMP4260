@@ -39,7 +39,7 @@ Describe los pasos para instalar, correr y probar tu aplicación localmente.
 
     Se realizaron varios pasos para poderlo configurarlo en Azure, empezando, creando un App Service para poder implementar el proyecto. Después se configuraron las Variables de Entorno para tener una buena seguridad y que el código fuente sea expuesto. Las variables declaradas fueron: SQL_SERVER para la dirección del servidor de la base de datos, SQL_DATABASE nombre de la base de datos, SQL_USERNAME usuario de administrador de la base de datos y, por último, SQL_PASSWORD contraseña del administrador. Y lo último que se configuro fue la base de datos en SQL con sus respectivas reglas para poderme conectar sin problema al proyecto. 
 
----
+
 
 Enlace a la Aplicación Desplegada
 > [https://proyecto-final-cloud-b2bufbg0d0h9auef.eastus-01.azurewebsites.net/]

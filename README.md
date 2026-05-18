@@ -35,7 +35,10 @@ Describe los pasos para instalar, correr y probar tu aplicación localmente.
 
     Para poder correr el proyecto, primero se debe clonar el repositorio para tenerlo en la máquina de uno. Para después crear un entorno asilado y virtual, el cual no es obligatorio, pero en mi caso lo hice con el entorno virtual. También si es necesario hay que instalar las dependencias necesarias para que el código corra sin problema.
 
-2.Configuración en Azure
+   1. Preparación Local
+ Se realizaron varios pasos para poderlo configurarlo en Azure, empezando, creando un App Service para poder implementar el proyecto. Después se configuraron las Variables de Entorno para tener una buena seguridad y que el código fuente sea expuesto. Las variables declaradas fueron: SQL_SERVER para la dirección del servidor de la base de datos, SQL_DATABASE nombre de la base de datos, SQL_USERNAME usuario de administrador de la base de datos y, por último, SQL_PASSWORD contraseña del administrador. Y lo último que se configuro fue la base de datos en SQL con sus respectivas reglas para poderme conectar sin problema al proyecto.
+
+3. Configuración en Azure
 
     Se realizaron varios pasos para poderlo configurarlo en Azure, empezando, creando un App Service para poder implementar el proyecto. Después se configuraron las Variables de Entorno para tener una buena seguridad y que el código fuente sea expuesto. Las variables declaradas fueron: SQL_SERVER para la dirección del servidor de la base de datos, SQL_DATABASE nombre de la base de datos, SQL_USERNAME usuario de administrador de la base de datos y, por último, SQL_PASSWORD contraseña del administrador. Y lo último que se configuro fue la base de datos en SQL con sus respectivas reglas para poderme conectar sin problema al proyecto. 
 

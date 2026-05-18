@@ -45,6 +45,7 @@ Enlace a la Aplicación Desplegada
 ---
 
 Estimación del Costo (Azure Pricing Calculator)
+
     Si el proyecto se ejecutara si el beneficio del costo gratis, escogiendo las cosas básicas sería un precio de 285 dólares con el App Service y la Base de Datos SQL. 
     ![Configuracion y precio de la App Service](<Costo App Service.png>)
     ![Configuracion escogida para la Base de Datos](<Configuracion Base De Datos.png>)

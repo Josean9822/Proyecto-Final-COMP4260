@@ -30,9 +30,7 @@ Diagrama de Arquitectura
 
 Despliegue y Configuración
 
-1. Preparación Local
-   
-Describe los pasos para instalar, correr y probar tu aplicación localmente.
+1. Describe los pasos para instalar, correr y probar tu aplicación localmente.
 
     Para poder correr el proyecto, primero se debe clonar el repositorio para tenerlo en la máquina de uno. Para después crear un entorno asilado y virtual, el cual no es obligatorio, pero en mi caso lo hice con el entorno virtual. También si es necesario hay que instalar las dependencias necesarias para que el código corra sin problema.
 
